@@ -8,6 +8,7 @@ Add the date warehouse image from Draw.io.
 
 Naming Conventions:
 snake_case = ben_kaefer
+SCREAMING_SNAKE_CASE = BEN_KAEFER
 PascalCase = BenKaefer
 camelCase = benKaefer
 kebab-case = ben-kaefer
